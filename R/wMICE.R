@@ -15,8 +15,6 @@
 #'
 #' @return A numeric matrix without missing entries
 #'
-#' @export
-#'
 
 wMICE = function(data,
                  args = list(mincor = NULL,
