@@ -1,0 +1,33 @@
+Package: ImputeBench
+Title: ImputeBench
+Version: 0.1.0
+Authors@R: 
+    person("Robin", "Richter", , "robin.richter@dzne.de", role = c("aut", "cre"))
+Description: Benchmarking imputation methods on provided or simulated data
+    following the benchmarking, data and missingness pattern simulatinp
+    protocols defined in RMTBM22.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Year: 2022
+Imports: 
+    ddpcr,
+    extraDistr,
+    genscore,
+    ggplot2,
+    matrixStats,
+    mice,
+    missForest,
+    mvtnorm,
+    plotly,
+    R.utils,
+    softImpute,
+    stats,
+    stringr,
+    tictoc,
+    truncnorm,
+    VIM
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
