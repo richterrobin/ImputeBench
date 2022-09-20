@@ -5,6 +5,6 @@ and missingness pattern simulation protocols have been described in the accompan
 
 R. Richter, A. Miloschewski, J.F. Tavares, M.M.B. Breteler and S. Mukherjee (2022) Benchmarking Single Imputation Methods. in preparation
 
-Moreover, ImputeBench includes a number of plotting functions to visualize observed, missing and imputed data distributions using ggplot2 or plotly. 
+Moreover, ImputeBench includes a number of plot functions to visualize observed, missing and imputed data distributions using ggplot2 or plotly. 
 
 The functionality of ImputeBench is explained in detail in the accompanying vignette that is available in this repository.
